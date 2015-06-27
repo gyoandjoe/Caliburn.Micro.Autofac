@@ -5,6 +5,11 @@ Source code to the [Caliburn.Micro.Autofac nuget package](http://nuget.org/List/
 - [Caliburn.Micro.Autofac](http://buksbaum.us/things-i-did/caliburn-micro-autofac/)
 - [Dave's blog](http://buksbaum.us/)
 
+__2015/06/27
+* Upgraded to Autofac 2.5.2
+* Upgraded to Caliburn.Micro 2.0.2.0
+* Added Example for WPF without Reference to Lib Caliburn.Micro.Autofac
+
 __Version 1.5.0 - 2013/01/02__
   * Upgraded to Autofac 2.6.3.862
   * Upgraded to Caliburn.Micro 1.4
