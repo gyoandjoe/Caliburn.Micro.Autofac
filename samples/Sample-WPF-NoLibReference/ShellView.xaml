@@ -1,0 +1,13 @@
+﻿<Window x:Class="SampleWPFNoLibReference.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ShellView" Height="300" Width="300">
+    
+        <Grid Background="White">
+            <TextBlock Text="Hello Caliburn Micro No Reference!"
+		           VerticalAlignment="Center"
+		           HorizontalAlignment="Center"
+		           FontSize="20" />
+        </Grid>
+    
+</Window>
