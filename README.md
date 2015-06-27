@@ -4,6 +4,7 @@ Caliburn.Micro.Autofac
 Source code to the [Caliburn.Micro.Autofac nuget package](http://nuget.org/List/Packages/Caliburn.Micro.Autofac).
 - [Caliburn.Micro.Autofac](http://buksbaum.us/things-i-did/caliburn-micro-autofac/)
 - [Dave's blog](http://buksbaum.us/)
+- [Gyo's blog](http://gyo.cs.buap.mx/g/)- 
 
 __2015/06/27
 * Upgraded to Autofac 2.5.2
