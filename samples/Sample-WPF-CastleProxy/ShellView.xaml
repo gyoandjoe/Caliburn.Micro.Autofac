@@ -1,0 +1,11 @@
+﻿<Window x:Class="Sample_WPF_CastleProxy.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ShellView" Height="300" Width="300">
+    
+        <Grid Background="White">
+            
+        <Button x:Name="DoLogin" Content=" Caliburn Micro With Castle Proxy ¡Click!" Width="250" Height="100"></Button>
+        </Grid>
+    
+</Window>
