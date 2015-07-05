@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-WP7", "Sample-WP7\Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-WPF-NoLibReference", "Sample-WPF-NoLibReference\Sample-WPF-NoLibReference.csproj", "{7B50AC19-3D4D-47F1-81A2-B4BFA0B27D74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-WPF-CastleProxy", "Sample-WPF-CastleProxy\Sample-WPF-CastleProxy.csproj", "{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,18 @@ Global
 		{7B50AC19-3D4D-47F1-81A2-B4BFA0B27D74}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{7B50AC19-3D4D-47F1-81A2-B4BFA0B27D74}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{7B50AC19-3D4D-47F1-81A2-B4BFA0B27D74}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D2280B90-9911-4C6A-9CE3-FA8EF29256CF}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
