@@ -11,8 +11,8 @@ namespace Sample_WPF_CastleProxy.Interceptors
     {
         public void Intercept(IInvocation invocation)
         {
-            var x = invocation.Method.Name;
-            
+            var methodName = invocation.Method.Name;
+            Console.WriteLine("Intercepted Method Name: " + methodName);
         }
     }
 }
